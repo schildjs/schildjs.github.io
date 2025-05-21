@@ -1,6 +1,6 @@
 ---
 title: "Research"
-permalink: 
+permalink: "/research/"
 layout: page
 ---
 
