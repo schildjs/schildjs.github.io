@@ -6,13 +6,13 @@ layout: page
 
 # Jonathan S. Schildcrout, Ph.D.
 
-Professor, Vice Chair of Research
-Department of Biostatistics
-Vanderbilt University Medical Center
-2525 West End Ave
-Suite 1100 (mail)
-Suite 1130, Room 1138 (office)
-Nashville, TN 37203
+Professor, Vice Chair of Research  
+Department of Biostatistics  
+Vanderbilt University Medical Center  
+2525 West End Ave  
+Suite 1100 (mail)  
+Suite 1130, Room 1138 (office)  
+Nashville, TN 37203  
 615.343.5432
 
 ## Methodological Research Interests
