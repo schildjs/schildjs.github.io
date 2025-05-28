@@ -6,7 +6,6 @@ layout: page
 
 # Jonathan S. Schildcrout, Ph.D.
 
-<div class="container">
 <img style="float: left;" src="ADF34C67-2B3D-4EE5-B061-C8332D3EA43D.jpg" width="200">
 Professor, Vice Chair of Research \ 
 Department of Biostatistics \
@@ -15,8 +14,7 @@ Vanderbilt University Medical Center \
 Suite 1100 (mail) \
 Suite 1130, Room 1138 (office) \
 Nashville, TN 37203 \ 
-615.343.5432 \
-</div>
+615.343.5432 \ \ \
 
 ## Methodological Research Interests
 
