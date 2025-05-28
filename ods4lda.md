@@ -82,7 +82,7 @@ People who are or have been involved: Chiara Di Gravio, MS; Shawn Garbett, MS; S
 ## Links to Software
 
 * Sequential Offsetted LogisticRegression Analysis
-  * [Stata package](https://www.biostat.wisc.edu/~rathouz/Software/)
+  * [Stata package](https://www.biostat.wisc.edu/~rathouz/Software/)(**need updated package from Paul**)
   * [R package SOR.logistic](https://github.com/schildjs/SOR.logistic) _using geepack_
 * A pure R implementation of GEE
   * [R package `geeM`](https://CRAN.R-project.org/package=geeM)
