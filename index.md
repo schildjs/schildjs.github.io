@@ -6,8 +6,7 @@ layout: page
 
 # Jonathan S. Schildcrout, Ph.D.
 
-<img src="ADF34C67-2B3D-4EE5-B061-C8332D3EA43D.jpg" alt="blah" width="200"/>
-
+<div class="container">
 <img style="float: left;" src="ADF34C67-2B3D-4EE5-B061-C8332D3EA43D.jpg" width="200">
 Professor, Vice Chair of Research \ 
 Department of Biostatistics \
@@ -17,7 +16,7 @@ Suite 1100 (mail) \
 Suite 1130, Room 1138 (office) \
 Nashville, TN 37203 \ 
 615.343.5432 \
-
+</div>
 
 ## Methodological Research Interests
 
