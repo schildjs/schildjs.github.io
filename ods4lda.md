@@ -1,5 +1,5 @@
 ---
-title: "Efficient Study Designs for (mostly) Longitudinal Data Analysis"
+title: "Efficient Study Designs"
 permalink: "/ods4lda/"
 layout: page
 ---
