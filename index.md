@@ -6,7 +6,8 @@ layout: page
 
 # Jonathan S. Schildcrout, Ph.D.
 
-![](ADF34C67-2B3D-4EE5-B061-C8332D3EA43D.jpg  =x100)
+![](ADF34C67-2B3D-4EE5-B061-C8332D3EA43D.jpg){width=100}
+ 
 
 Professor, Vice Chair of Research  
 Department of Biostatistics  
