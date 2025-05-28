@@ -9,14 +9,14 @@ layout: page
 <img src="ADF34C67-2B3D-4EE5-B061-C8332D3EA43D.jpg" alt="blah" width="200"/>
 
 <img style="float: left;" src="ADF34C67-2B3D-4EE5-B061-C8332D3EA43D.jpg" width="200">
-Professor, Vice Chair of Research\ 
-Department of Biostatistics\
-Vanderbilt University Medical Center\
-2525 West End Ave\
-Suite 1100 (mail)\
-Suite 1130, Room 1138 (office)\
-Nashville, TN 37203\ 
-615.343.5432\
+Professor, Vice Chair of Research \ 
+Department of Biostatistics \
+Vanderbilt University Medical Center \
+2525 West End Ave \
+Suite 1100 (mail) \
+Suite 1130, Room 1138 (office) \
+Nashville, TN 37203 \ 
+615.343.5432 \
 
 
 ## Methodological Research Interests
