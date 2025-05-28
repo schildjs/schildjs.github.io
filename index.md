@@ -38,6 +38,6 @@ for indvidualized medicine, epidemiology, predictive modeling and evaluation of 
 
 ## Teaching
 
-Bios 7346: Advanced Regression Analysis II (Spring 2013-2021)
+Bios 7346: Advanced Regression Analysis II (Spring 2013-2021)\
 Bios 7330: Regression Modeling Strategies (Spring 2023-2025)
 
