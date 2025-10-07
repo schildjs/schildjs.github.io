@@ -30,8 +30,9 @@ operating characteristics of the associated estimators. While I believe differen
 scenarios, my methods research for categorical data has tended to focus on marginal model estimation and inference.
 
 Over the past decade, I have been particularly interested in epidemiological study designs for longitudinal data. These designs are 
-extensions of the case-control design for scalar, binary response data, to various longitudinal and cluster-correlated response 
-distributions. The designs are often retrospective, and are highly cost and resource efficient.
+extensions of the case-control design for scalar, binary response data, to various response distributions. The designs are most often 
+retrospective, and are highly cost and resource efficient.  That is, the focus for the designs and analysis procedures is how one can
+get the most information bang for their research buck.
 
 ## Collaborative Research Interests
 
