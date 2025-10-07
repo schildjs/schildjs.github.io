@@ -8,7 +8,7 @@ layout: page
 
 This page provides references to papers and links to software associated with our research related to two-phase, outcome dependent and outcome related sampling designs. Most, but not all of this work has involved longitudinal data. All research below was at least partially supported by our grant Outcome Dependent Sampling for Longitudinal Data: Design and Analysis (R01-HL094786) which was funded by the NHLBI.
 
-People who are or have been involved: Chiara Di Gravio, MS; Shawn Garbett, MS; Sebastien Haneuse, PhD; Patrick Heagerty, PhD; Jake Maronge, PhD; Lee McDaniel, PhD; Nate Mercaldo, PhD; Peter Mueller, PhD; Paul Rathouz, PhD; Claudia Rivera-Rodriguez, PhD; Sarah Sauer, PhD; Jonathan Schildcrout, PhD; Bryan Shepherd, PhD; Ran Tao, PhD; Leila Zelnick, PhD
+People who are or have been involved: Gustavo Amorim, PhD; Chiara Di Gravio, MS; Shawn Garbett, MS; Sebastien Haneuse, PhD; Patrick Heagerty, PhD; Jake Maronge, PhD; Lee McDaniel, PhD; Nate Mercaldo, PhD; Peter Mueller, PhD; Paul Rathouz, PhD; Claudia Rivera-Rodriguez, PhD; Sarah Sauer, PhD; Jonathan Schildcrout, PhD; Bryan Shepherd, PhD; Ran Tao, PhD; Leila Zelnick, PhD
 
 ## Outcome Dependent Sampling for Longitudinal Binary Data
 
